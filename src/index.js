@@ -35,7 +35,6 @@ const plugins = {
   EditorAutosuggestRefsPlugin,
   EditorAutosuggestOAS3KeywordsPlugin,
   PerformancePlugin,
-  JumpToPathPlugin,
   SplitPaneModePlugin,
   ASTPlugin,
 }
